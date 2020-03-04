@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Siraj's Personal Website!
 
 You can use the [editor on GitHub](https://github.com/sirajpatel23/spatel23/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
