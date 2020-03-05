@@ -2,7 +2,7 @@
 
 ![Photo of Me](/C873905_2.jpg)
 
-## About M#e
+## About Me
 I am a junior at the University of Ilinois at Urbana-Champaign majoring in Econometrics and Quantitative Economics while pursuing a minor in Computer Science.
 
 You can use the [editor on GitHub](https://github.com/sirajpatel23/spatel23/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
