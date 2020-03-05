@@ -1,9 +1,9 @@
-# Welcome to Siraj's Personal Website!
+# Welcome to My Personal Website!
 
 ![Photo of Me](/C873905_2.jpg)
 
 ## About Me
-I am a junior at the University of Ilinois at Urbana-Champaign majoring in Econometrics and Quantitative Economics while pursuing a minor in Computer Science.
+I am a junior at the University of Ilinois at Urbana-Champaign majoring in Econometrics and Quantitative Economics while pursuing a minor in Computer Science. I'd love to work anywhere in the tech industry 
 
 You can use the [editor on GitHub](https://github.com/sirajpatel23/spatel23/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
